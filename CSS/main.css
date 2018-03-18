@@ -1,0 +1,43 @@
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;
+    background-color: #000000;
+    height: 1px;
+}
+
+.scrollable{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height:450px;
+}
+
+
+.quantity-form{
+    background-color: lightblue;
+    text-align: center;
+    width: 75%;
+}
+
+
+.centerText{
+    text-align: center;
+}
+
+ul  {
+    padding-left:0;
+}
+ul li  {
+    list-style-position:inside
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+
+.leftVerticalDivider{
+    border-left: 1px solid #000000;
+}

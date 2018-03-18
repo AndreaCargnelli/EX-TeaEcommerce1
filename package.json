@@ -1,0 +1,7 @@
+{
+  "name": "UX_Es1_WireFrame",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
