@@ -1,6 +1,6 @@
 # Tea E-Commerce 
 
-![Preview]()
+![Preview](https://github.com/Davide-Stefanutti/EX-TeaEcommerce1/blob/master/Images/IndexPreview.jpg)
 
 
 ### Install dependencies
