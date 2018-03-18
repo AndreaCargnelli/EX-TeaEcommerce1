@@ -15,6 +15,6 @@ npm install
 
 ### Links
 
-* [Bootstrap 3](http://getbootstrap.com/)
+* [Bootstrap 4](http://getbootstrap.com/)
 * [Font Awesome](https://fontawesome.com/)
 * [Pixabay](https://pixabay.com/)
